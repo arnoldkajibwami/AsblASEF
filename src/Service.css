@@ -1,0 +1,71 @@
+.services_section5 {
+  background-color: rgb(77, 77, 77);
+  background-image: url("./images/1.jpeg"), linear-gradient(#bbbbbb, #070707);
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 60px;
+  padding-bottom: 0.3px;
+}
+
+.services_section6{
+  background-color: rgb(255, 255, 255);
+  /* background-image: url("./images/1.jpeg"), linear-gradient(#bbbbbb, #070707); */
+  background-blend-mode: overlay;;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 60px;
+  padding-bottom: 0.3px;
+}
+
+.services_taital {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.services_section_2 {
+  margin-bottom: 100px;
+}
+
+.icon_box {
+  width: 70px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0px 0px 2px 2px #edf0f2;
+  border-radius: 3px;
+  margin-top: 30px;
+}
+
+.icon_1 {
+  width: 100%;
+  text-align: center;
+}
+
+.selection_text {
+  width: 100%;
+  font-size: 20px;
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.ipsum_text {
+  width: 68%;
+  font-size: 15px;
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black;
+  margin: 0px;
+}
+
+
+/* services section end */

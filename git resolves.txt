@@ -1,0 +1,8 @@
+error: RPC failed; curl 56 OpenSSL_read: connection was reset, error 10054	
+fatal: the remote end hung up unexpectedly 
+everthing up-to-date 
+resolve with 
+git init
+git config http.postBuffer 524288000
+git remote add origin <REPO URL>
+git pull origin master
