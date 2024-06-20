@@ -62,7 +62,7 @@ function Gallery() {
                                 <button id='nextprev' onClick={handleNext}><FaArrowRight /> </button>
                             </div>
 
-                                <div className="image-description" style={{padding:"40px"}}>{filteredImages[currentImageIndex].description}</div>
+                                <div className="image-description">{filteredImages[currentImageIndex].description}</div>
                         </div>
                     </div>
                 )}

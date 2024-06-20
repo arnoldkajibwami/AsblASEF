@@ -10,10 +10,10 @@ body {
 }
 
 body {
-  /* font-family: 'Abhaya Libre', serif; */
-  /* font-family: 'Merriweather', serif; */
-  /* font-family: 'Rokkitt', serif; */
-  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Abhaya Libre', serif !important; */
+  /* font-family: 'Merriweather', serif !important; */
+  font-family: 'Rokkitt', serif !important;
+  /* font-family: 'Poppins', sans-serif !important;  */
   font-style: normal;
   color: #0c0c0c;
   background-color: #ffffff;

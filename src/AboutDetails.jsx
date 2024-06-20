@@ -30,7 +30,7 @@ export default function AboutDetails() {
                                         Actions de soutien aux enfants et aux femmes est une association à caractère social et humanitaire qui a été créée en
                                         juillet 2020 par un groupe de jeunes intellectuels originaires de la partie orientale de la RDC en proie à la guerre et à
                                         toutes sortes de violences spécialement envers les couches vulnérables dont font partie les enfants et les femmes dans
-                                        les zones des conflits du Sud – Kivu, du Nord – Kivu et de l’Ituri.
+                                        les zones des conflits du Sud–Kivu, du Nord–Kivu et de l’Ituri.
                                     </p>
 
 {/* 
