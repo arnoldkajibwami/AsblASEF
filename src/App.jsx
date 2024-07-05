@@ -8,7 +8,6 @@ import About from './About';
 import Service from "./Service";
 import './app.css';
 import Project from "./Project"
-//import
 
 function App() {
 
@@ -22,7 +21,6 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/service" element={<Service />} />
         <Route path="/project" element={<Project />} />
-         <Route path="/gallery" element={<Gallery />} /> 
       </Routes>
       <Footer/>
     </Router>
