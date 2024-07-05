@@ -13,7 +13,7 @@ function App() {
 
   return (
     <Router>
-    {/*  <Header/>
+     { <Header/>
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/home" element={<Home />} />
@@ -23,7 +23,7 @@ function App() {
         <Route path="/project" element={<Project />} />
          <Route path="/gallery" element={<Gallery />} /> 
       </Routes>
-      <Footer/>*/}
+      <Footer/>
     </Router>
   )
 }
